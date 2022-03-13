@@ -8,4 +8,5 @@
 
 
 ### 2. Business Analytics Assignments
+- [Excel ***(10/10)***](https://github.com/Akshaysharma17/Ineuron-Assignments/tree/master/Business%20Analytics/Excel)
 - [SQL ***(10/10)***](https://github.com/Akshaysharma17/Ineuron-Assignments/tree/master/Business%20Analytics/SQL)
